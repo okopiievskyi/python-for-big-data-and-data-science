@@ -1,0 +1,1 @@
+print("Kopiievskyi Oleksandr, group2")
